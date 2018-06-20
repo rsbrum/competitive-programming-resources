@@ -22,3 +22,5 @@ https://www.youtube.com/watch?v=vYquumk4nWw
 https://www.spoj.com/problems/classical/sort=-6,start=0
 https://projecteuler.net/archives
 
+## CS concepts m ade simple
+http://carlcheo.com/compsci
